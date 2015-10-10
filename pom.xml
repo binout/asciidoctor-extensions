@@ -4,7 +4,7 @@
 
     <groupId>io.github.binout.asciidoctor</groupId>
     <artifactId>asciidoctor-extensions</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/binout/asciidoctor-extensions.git</connection>
@@ -41,7 +41,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>2.4.1</version>
+                <version>2.4</version>
                 <configuration>
                     <useReleaseProfile>false</useReleaseProfile>
                     <releaseProfiles>release</releaseProfiles>
