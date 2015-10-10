@@ -15,4 +15,9 @@ because of a bug in JRuby loading
 === Twitter Macro
 
 Class:: com.github.binout.asciidoctor.extensions.TwitterMacro
-Macro:: twiiter::binout[]
+Example:: twiiter::binout[]
+
+=== Uri Include Processor
+
+Class:: com.github.binout.asciidoctor.extensions.UriIncludeProcessor
+Example:: include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/Gemfile[]

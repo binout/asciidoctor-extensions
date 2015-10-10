@@ -86,7 +86,7 @@
     <distributionManagement>
         <repository>
             <id>bintray</id>
-            <url>https://api.bintray.com/maven/binout/maven/asciidoctor-extensions</url>
+            <url>https://api.bintray.com/maven/binout/maven</url>
         </repository>
     </distributionManagement>
 
