@@ -4,13 +4,13 @@
 
     <groupId>io.github.binout.asciidoctor</groupId>
     <artifactId>asciidoctor-extensions</artifactId>
-    <version>0.2</version>
+    <version>0.3-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/binout/asciidoctor-extensions.git</connection>
         <developerConnection>scm:git:git@github.com:binout/asciidoctor-extensions.git</developerConnection>
         <url>https://github.com/binout/asciidoctor-extensions</url>
-        <tag>asciidoctor-extensions-0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <licenses>
