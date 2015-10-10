@@ -41,7 +41,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>2.4</version>
+                <version>2.5.2</version>
                 <configuration>
                     <useReleaseProfile>false</useReleaseProfile>
                     <releaseProfiles>release</releaseProfiles>
@@ -86,7 +86,7 @@
     <distributionManagement>
         <repository>
             <id>bintray</id>
-            <url>https://api.bintray.com/maven/binout/maven</url>
+            <url>https://api.bintray.com/maven/binout/maven/asciidoctor-extensions</url>
         </repository>
     </distributionManagement>
 
