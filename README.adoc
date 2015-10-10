@@ -1,0 +1,18 @@
+= Asciidoctor extensions
+:icon: font
+
+A set of AsciidoctorJ extensions
+
+== How it works ?
+
+Refer to AsciidoctorJ documentation : http://asciidoctor.org/docs/asciidoctorj/#extension-api
+
+== Extensions
+
+NOTE: the prefix package of class name of extensions is `com.github.biout` and not `io.github.com` (as groupId)
+because of a bug in JRuby loading
+
+=== Twitter Macro
+
+Class:: com.github.binout.asciidoctor.extensions.TwitterMacro
+Macro:: twiiter::binout[]
