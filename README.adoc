@@ -16,10 +16,18 @@ because of a bug in JRuby loading
 
 === Twitter Macro
 
+Type:: org.asciidoctor.extension.InlineMacroProcessor
 Class:: com.github.binout.asciidoctor.extensions.TwitterMacro
 Example:: twiiter::binout[]
 
 === Uri Include Processor
 
+Type:: org.asciidoctor.extension.IncludeProcessor
 Class:: com.github.binout.asciidoctor.extensions.UriIncludeProcessor
 Example:: include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/Gemfile[]
+
+=== Gist Macro
+
+Type:: org.asciidoctor.extension.BlockMacroProcessor
+Class:: com.github.binout.asciidoctor.extensions.GistMacro
+Example:: gist::5732518[]

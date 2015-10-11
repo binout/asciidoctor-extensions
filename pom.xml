@@ -47,6 +47,7 @@
         <asciidoctorj.version>1.5.2</asciidoctorj.version>
         <junit.version>4.11</junit.version>
         <assertj-core.version>1.6.0</assertj-core.version>
+        <slf4j-nop.version>1.7.5</slf4j-nop.version>
     </properties>
 
     <dependencies>
@@ -66,6 +67,12 @@
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
             <version>${assertj-core.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>${slf4j-nop.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
