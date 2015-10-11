@@ -11,7 +11,7 @@ Refer to AsciidoctorJ documentation : http://asciidoctor.org/docs/asciidoctorj/#
 
 == Extensions
 
-NOTE: the prefix package of class name of extensions is `com.github.biout` and not `io.github.com` (as groupId)
+NOTE: the prefix package of class name of extensions is `com.github.binout` and not `io.github.binout` (as groupId)
 because of a bug in JRuby loading
 
 === Twitter Macro
