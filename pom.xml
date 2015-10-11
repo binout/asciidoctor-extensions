@@ -4,7 +4,7 @@
 
     <groupId>io.github.binout.asciidoctor</groupId>
     <artifactId>asciidoctor-extensions</artifactId>
-    <version>0.3-SNAPSHOT</version>
+    <version>0.3</version>
 
     <name>asciidoctor-extensions</name>
     <description>A set of extensions for AsciidoctorJ</description>
@@ -15,7 +15,7 @@
         <connection>scm:git:https://github.com/binout/asciidoctor-extensions.git</connection>
         <developerConnection>scm:git:git@github.com:binout/asciidoctor-extensions.git</developerConnection>
         <url>https://github.com/binout/asciidoctor-extensions</url>
-        <tag>HEAD</tag>
+        <tag>asciidoctor-extensions-0.3</tag>
     </scm>
 
     <licenses>
