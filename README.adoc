@@ -3,6 +3,8 @@
 
 A set of AsciidoctorJ extensions
 
+image:https://buildhive.cloudbees.com/job/binout/job/asciidoctor-extensions/badge/icon["Build Status", link="https://buildhive.cloudbees.com/job/binout/job/asciidoctor-extensions/"]
+
 == How it works ?
 
 Refer to AsciidoctorJ documentation : http://asciidoctor.org/docs/asciidoctorj/#extension-api
